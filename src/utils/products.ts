@@ -354,7 +354,7 @@ export const products = [
         "ProductID": 145,
         "Name": "Upsilon Widget",
         "Category": "Electronics",
-        "Price": 469.99,
+        "Price": '469.99',
         "Stock": 9,
         "Rating": 4.9
     },
