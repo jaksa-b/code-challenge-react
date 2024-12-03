@@ -4,17 +4,148 @@ ProductID,Name,Category,Price,Stock,Rating
 103,Gamma Gadget,Electronics,,30,3.8
 104,Delta Device,Appliances,79.99,0,4.2
 105,Epsilon Tool,Appliances,59.99,15,
-106,Zeta Instrument,Appliances,99.99,,4.7
+106,Zeta Instrument,Appliances,99.99,8,4.7
 107,Eta Apparatus,Tools,39.99,100,4.1
 108,Theta Machine,Tools,89.99,5,4.9
 109,Iota Contraption,Tools,109.99,2,5.0
 110,Kappa Equipment,Tools,119.99,1,4.8
-111,Lambda Gear,Electronics,129.99,,
+111,Lambda Gear,Electronics,129.99,12,
 112,Mu Device,,139.99,20,4.3
 113,,Electronics,149.99,10,4.4
 114,Nu Gadget,Electronics,159.99,5,4.6
 115,Xi Widget,Electronics,169.99,0,4.0
-115,Xi Widget,Electronics,169.99,0,4.0
 116,Omicron Gizmo,Electronics,abc,25,4.5
 117,Pi Tool,Appliances,189.99,-5,4.2
 118,Rho Apparatus,Tools,199.99,10,6.0
+119,Smart Alpha Widget,Electronics,89.99,15,4.3
+120,Ultra Beta Gadget,Tools,129.99,8,4.7
+121,Mega Gamma Device,Appliances,149.99,0,4.1
+122,Pro Delta Tool,Tools,79.99,12,4.4
+123,Elite Epsilon Machine,Electronics,199.99,3,4.9
+124,,Appliances,159.99,20,4.2
+125,Advanced Eta Gizmo,Electronics,,45,4.6
+126,Basic Theta Widget,Tools,69.99,-3,4.3
+127,Premium Iota Gadget,Electronics,abc,18,3.9
+128,Eco Kappa Device,Appliances,109.99,0,
+129,Smart Lambda Machine,Tools,189.99,7,5.0
+130,Ultra Mu Equipment,,149.99,22,4.5
+131,Mega Nu Apparatus,Electronics,169.99,31,4.8
+132,Pro Xi Contraption,Tools,219.99,1,4.2
+133,Elite Omicron Gear,Electronics,139.99,30,4.7
+134,Advanced Pi Widget,Appliances,179.99,5,3.8
+135,Basic Rho Gadget,Tools,159.99,11,4.4
+136,Premium Sigma Device,Electronics,229.99,15,4.9
+137,Eco Tau Equipment,Appliances,167.50,9,4.3
+138,Smart Upsilon Tool,Tools,199.99,28,4.6
+139,Ultra Phi Gizmo,Electronics,169.99,4,4.1
+140,,Tools,189.99,17,4.8
+141,Mega Chi Machine,Appliances,149.99,82,4.5
+142,Pro Psi Apparatus,Electronics,abc,33,4.2
+143,Elite Omega Widget,Tools,209.99,6,
+144,Advanced Alpha Gadget,Appliances,179.99,0,4.7
+145,Basic Beta Device,Electronics,139.99,41,4.4
+146,Premium Gamma Tool,Tools,199.99,14,4.8
+147,Eco Delta Machine,Electronics,169.99,2,4.3
+148,Smart Epsilon Apparatus,Appliances,149.99,8,4.6
+149,Ultra Zeta Widget,Tools,195.50,19,4.1
+150,Mega Eta Gadget,Electronics,189.99,0,4.9
+151,Pro Theta Device,Appliances,159.99,25,3.9
+152,Elite Iota Tool,Tools,179.99,7,4.7
+153,Advanced Kappa Gizmo,Electronics,129.99,94,4.4
+154,Basic Lambda Machine,Appliances,abc,16,4.2
+155,Premium Mu Equipment,Tools,209.99,3,
+156,Eco Nu Apparatus,Electronics,169.99,0,4.8
+157,Smart Xi Widget,Tools,149.99,67,4.5
+158,,Appliances,189.99,12,4.3
+159,Ultra Omicron Device,Electronics,199.99,5,4.6
+160,Mega Pi Tool,Tools,159.99,21,4.1
+161,Pro Rho Machine,Electronics,179.99,0,4.9
+162,Elite Sigma Gadget,Appliances,184.99,8,4.4
+163,Advanced Tau Equipment,Tools,169.99,36,4.7
+164,Basic Upsilon Apparatus,Electronics,abc,14,4.2
+165,Premium Phi Widget,Tools,229.99,4,
+166,Eco Chi Device,Appliances,149.99,0,4.8
+167,Smart Psi Tool,Electronics,189.99,17,4.5
+168,Ultra Omega Gizmo,Tools,159.99,6,4.3
+169,Mega Alpha Machine,,179.99,23,4.6
+170,Pro Beta Apparatus,Electronics,199.99,2,4.1
+171,Elite Gamma Widget,Appliances,169.99,0,4.9
+172,Advanced Delta Gadget,Tools,182.50,11,4.4
+173,Basic Epsilon Device,Electronics,189.99,73,4.7
+174,Premium Zeta Tool,Appliances,abc,19,4.2
+175,Eco Eta Equipment,Tools,209.99,5,
+176,Smart Theta Apparatus,Electronics,149.99,0,4.8
+177,Ultra Iota Widget,Tools,179.99,16,4.5
+178,Mega Kappa Gizmo,Appliances,159.99,7,4.3
+179,,Electronics,199.99,24,4.6
+180,Pro Mu Device,Tools,169.99,3,4.1
+181,Elite Nu Tool,Electronics,189.99,0,4.9
+182,Advanced Xi Machine,Appliances,176.50,13,4.4
+183,Basic Omicron Apparatus,Tools,179.99,45,4.7
+184,Premium Pi Widget,Electronics,abc,18,4.2
+185,Eco Rho Gadget,Appliances,229.99,6,
+186,Smart Sigma Device,Tools,149.99,0,4.8
+187,Ultra Tau Tool,Electronics,189.99,15,4.5
+188,Mega Upsilon Equipment,,159.99,8,4.3
+189,Pro Phi Apparatus,Tools,199.99,22,4.6
+190,Elite Chi Widget,Electronics,169.99,4,4.1
+191,Advanced Psi Gizmo,Appliances,189.99,0,4.9
+192,Basic Omega Machine,Tools,192.50,12,4.4
+193,Premium Alpha Gadget,Electronics,179.99,89,4.7
+194,Eco Beta Device,Appliances,abc,17,4.2
+195,Smart Gamma Tool,Tools,209.99,7,
+196,Ultra Delta Equipment,Electronics,149.99,0,4.8
+197,Mega Epsilon Apparatus,Tools,179.99,14,4.5
+198,Pro Zeta Widget,Appliances,159.99,9,4.3
+199,,Electronics,199.99,20,4.6
+200,Elite Theta Device,Tools,169.99,5,4.1
+201,Pro Iota Device,Electronics,174.99,31,4.4
+202,Super Kappa Tool,Tools,189.99,42,4.6
+203,Ultra Lambda Gadget,Appliances,abc,15,4.2
+204,Mega Mu Equipment,Electronics,159.99,67,
+205,Elite Nu Apparatus,Tools,199.99,23,4.8
+206,,Appliances,169.99,8,4.3
+207,Advanced Xi Machine,Electronics,145.50,91,4.7
+208,Basic Omicron Widget,Tools,179.99,12,4.1
+209,Premium Pi Device,Electronics,209.99,0,4.9
+210,Eco Rho Gizmo,Appliances,164.99,5,4.4
+211,Smart Sigma Tool,Tools,abc,28,4.2
+212,Ultra Tau Equipment,Electronics,189.99,44,
+213,Mega Upsilon Apparatus,Appliances,199.99,17,4.8
+214,Elite Phi Machine,,159.99,3,4.5
+215,Advanced Chi Widget,Electronics,179.99,52,4.3
+216,Basic Psi Device,Tools,169.99,9,4.6
+217,Premium Omega Tool,Appliances,194.99,0,4.1
+218,Eco Alpha Gadget,Electronics,149.99,73,4.9
+219,Smart Beta Equipment,Tools,abc,25,4.4
+220,,Appliances,184.99,11,4.2
+221,Ultra Gamma Apparatus,Electronics,169.99,38,
+222,Mega Delta Machine,Tools,199.99,6,4.8
+223,Elite Epsilon Widget,Electronics,154.99,82,4.5
+224,Advanced Zeta Device,Appliances,179.99,14,4.3
+225,Basic Eta Tool,Tools,169.99,0,4.6
+226,Premium Theta Gadget,Electronics,189.99,47,4.1
+227,Eco Iota Equipment,Appliances,abc,19,4.9
+228,Smart Kappa Apparatus,Tools,159.99,63,4.4
+229,Ultra Lambda Machine,,174.99,8,4.2
+230,Mega Mu Widget,Electronics,199.99,33,
+231,Elite Nu Device,Appliances,164.99,5,4.8
+232,Advanced Xi Tool,Tools,179.99,91,4.5
+233,Basic Omicron Gadget,Electronics,169.99,16,4.3
+234,Premium Pi Equipment,Appliances,194.99,0,4.6
+235,,Tools,149.99,58,4.1
+236,Eco Sigma Apparatus,Electronics,abc,22,4.9
+237,Smart Tau Machine,Appliances,189.99,7,4.4
+238,Ultra Upsilon Widget,Tools,159.99,84,4.2
+239,Mega Phi Device,Electronics,179.99,13,
+240,Elite Chi Tool,Appliances,169.99,0,4.8
+241,Advanced Psi Gadget,Tools,199.99,45,4.5
+242,Basic Omega Equipment,,164.99,9,4.3
+243,Premium Alpha Apparatus,Electronics,179.99,71,4.6
+244,Eco Beta Machine,Appliances,abc,18,4.1
+245,Smart Gamma Widget,Tools,189.99,4,4.9
+246,Ultra Delta Device,Electronics,159.99,56,4.4
+247,Mega Epsilon Tool,Appliances,174.99,0,4.2
+248,Elite Zeta Gadget,Tools,199.99,37,
+249,Advanced Eta Equipment,Electronics,169.99,15,4.8
+250,Basic Theta Apparatus,Appliances,184.99,82,4.5
