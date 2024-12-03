@@ -4,10 +4,10 @@
 Create the best **Product Dashboard** you can using **React** and **TypeScript** using the static JSON provided as a jump-off point. **Time Limit**: **1 hour**
 
 ## Objective
-Create a dashboard that can parse and display data from `products.csv`, implement sorting and filtering features, handle data inconsistencies gracefully, and showcase your decision-making and problem-solving skills.
+Create a dashboard that can parse and display data from `products.ts` (JSON), implement sorting and filtering features, handle data inconsistencies gracefully, and showcase your decision-making and problem-solving skills.
 
 ## Dataset
-The `products.csv` file contains hundreds of entries with the following fields: `ProductID`, `Name`, `Category`, `Price`, `Stock`, and `Rating`. The data includes various inconsistencies:
+The `products.ts` file contains hundreds of entries with the following fields: `ProductID`, `Name`, `Category`, `Price`, `Stock`, and `Rating`. The data includes various inconsistencies:
 
 - Missing values
 - Invalid data types (e.g., non-numeric price)
@@ -20,7 +20,7 @@ The `products.csv` file contains hundreds of entries with the following fields: 
 ### Core Tasks
 
 1. **Data Parsing and Display**
-   - Read and parse `products.csv` (this is already setup by default)
+   - Read and parse `products.ts` (this is already setup by default)
    - Implement your React UI Framework of choice
    - Display the data in a table format
 
@@ -35,7 +35,6 @@ The `products.csv` file contains hundreds of entries with the following fields: 
 4. **Data Handling**
    - Handle missing or invalid data gracefully
 
-   
 
 ### Optional Enhancements
 - Add search functionality
