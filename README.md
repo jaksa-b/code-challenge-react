@@ -49,18 +49,23 @@ The `products.csv` file contains hundreds of entries with the following fields: 
 - **Node.js** (v12 or higher)
 - **npm**
 
+````markdown
 ### Project Initialization
 
 1. **Install Dependencies**
 ```bash
 npm install
+```
 
+2. **Start the Development Server**
 ```bash
-    `npm start`
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+```
 
