@@ -1,7 +1,7 @@
 # Coding Challenge: Product Dashboard
 
 ## Overview
-Create a **Product Dashboard** using **React** and **TypeScript** that reads data from a CSV file and displays it interactively. **Time Limit**: **1 hour**
+Create the best **Product Dashboard** you can using **React** and **TypeScript** using the static JSON provided as a jump-off point. **Time Limit**: **1 hour**
 
 ## Objective
 Create a dashboard that can parse and display data from `products.csv`, implement sorting and filtering features, handle data inconsistencies gracefully, and showcase your decision-making and problem-solving skills.

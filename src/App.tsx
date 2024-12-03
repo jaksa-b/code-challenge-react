@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Papa from 'papaparse';
+import { products } from './utils/products';
 
 interface Product {
   ProductID: string;
@@ -11,32 +12,27 @@ interface Product {
 }
 
 const App: React.FC = () => {
-  const [products, setProducts] = useState<Product[]>([]);
+  const [data, setData] = useState<Product[]>([]);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    // Fetch the CSV file
-    fetch('/products.csv')
-      .then(response => response.text())
-      .then(data => {
-        // Parse CSV data
-        Papa.parse<Product>(data, {
-          header: true,
-          skipEmptyLines: true,
-          complete: results => {
-            setProducts(results.data);
-          },
-        });
-      })
-      .catch(error => {
-        console.error('Error fetching the CSV file:', error);
-      });
+    setLoading(true);
+    // Simulate loading data
+    setTimeout(() => {
+        setData(products as any);
+        setLoading(false);
+    }, 2000);
+    
   }, []);
 
   return (
     <div className="App">
       <h1>Product Dashboard</h1>
       {/* Table or component to display products will go here */}
-      <pre>{JSON.stringify(products, null, 2)}</pre>
+      {loading && <p>Loading data...</p>}
+      {!loading && data && (
+        <pre>{JSON.stringify(data, null, 2)}</pre>
+      )}
     </div>
   );
 };
