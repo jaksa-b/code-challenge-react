@@ -1,0 +1,20 @@
+ProductID,Name,Category,Price,Stock,Rating
+101,Alpha Gizmo,Electronics,49.99,25,4.5
+102,Beta Widget,Electronics,29.99,50,4.0
+103,Gamma Gadget,Electronics,,30,3.8
+104,Delta Device,Appliances,79.99,0,4.2
+105,Epsilon Tool,Appliances,59.99,15,
+106,Zeta Instrument,Appliances,99.99,,4.7
+107,Eta Apparatus,Tools,39.99,100,4.1
+108,Theta Machine,Tools,89.99,5,4.9
+109,Iota Contraption,Tools,109.99,2,5.0
+110,Kappa Equipment,Tools,119.99,1,4.8
+111,Lambda Gear,Electronics,129.99,,
+112,Mu Device,,139.99,20,4.3
+113,,Electronics,149.99,10,4.4
+114,Nu Gadget,Electronics,159.99,5,4.6
+115,Xi Widget,Electronics,169.99,0,4.0
+115,Xi Widget,Electronics,169.99,0,4.0
+116,Omicron Gizmo,Electronics,abc,25,4.5
+117,Pi Tool,Appliances,189.99,-5,4.2
+118,Rho Apparatus,Tools,199.99,10,6.0
